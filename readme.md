@@ -4,7 +4,7 @@
 <hr>
 <p>Here are some examples:</p>
 <h4>Deku from My Hero Academia</h4>
-<img src="assets/Deku.jpg" alt="Deku from My Hero Academia">
+<img src="assets/Deku.png" alt="Deku from My Hero Academia">
 <br>
 <h4>A CatGirl because someone on Discord wanted it</h4>
 <img src="assets/Neko.jpg" alt="A CatGirl">
