@@ -1,21 +1,21 @@
 /**
  * @name Avatar
  * @author hypews
- * @version 1
+ * @version 1.1
  * @description Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. Then, everything changed when the Fire Nation attacked. Only the Avatar, master of all four elements, could stop them, but when the world needed him most, he vanished. A hundred years passed and my brother and I discovered the new Avatar, an airbender named Aang. And although his airbending skills are great, he has a lot to learn before he's ready to save anyone. But I believe Aang can save the world.
  */
 
 /* Credits to Zerthox for making the original theme. */
 
 /* IMPORT CSS */
-@import url(https://hypewsthedev.github.io/hypewsClearVision/avatar.css);
+@import url(https://hypewsthedev.github.io/hypewsClearVision/Avatar.css);
 
 /* SETTINGS */
 :root {
 
     /* ACCENT COLORS */
-    --main-color: #dc8c24; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
-    --hover-color: #1b91fa; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
+    --main-color: #7094b7; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+    --hover-color: #9cbce4; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
     --success-color: #77cccc; /* success accent color (hex, rgb or hsl) [default: #43b581] */
     --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
 
@@ -45,8 +45,8 @@
     /* APP BACKGROUND */
     --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
     --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-    --background-image: url(https://i.pinimg.com/originals/dd/12/95/dd1295c8b9db4fc6958dc2a72d91c8ff.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.gitlab.io/images/sapphire.jpg)]*/
-    --background-position: center; /* app background position [default: center] */
+    --background-image: url(https://i.imgur.com/Mjke9mU.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.gitlab.io/images/sapphire.jpg)]*/
+    --background-position: bottom; /* app background position [default: center] */
     --background-size: cover; /* app background size [default: cover] */
     --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
     --background-attachment: fixed; /* app background attachment [default: fixed] */
