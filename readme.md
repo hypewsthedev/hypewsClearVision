@@ -11,3 +11,6 @@
 <br>
 <h4>A Seven Deadly Sins Wallpaper</h4>
 <img src="assets/7DS.jpg" alt="7DS">
+<br>
+<h4>Appa from Avatar</h4>
+<img src="assets/Avatar_Appa.png" alt="Appa">
