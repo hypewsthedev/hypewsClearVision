@@ -17,3 +17,9 @@
 <br>
 <h4>Appa from Avatar</h4>
 <img src="assets/Avatar_Appa.png" alt="Appa">
+<br>
+<h4>Katara from Avatar</h4>
+<img src="assets/Avatar_Katara.jpg.png" alt="Katara">
+<br>
+<h4>Frogs</h4>
+<img src="assets/Frogs.png.png" alt="Appa">
