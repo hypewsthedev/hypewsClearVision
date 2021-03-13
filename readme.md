@@ -3,7 +3,7 @@
 <p>This is a repo for all of the themes I have created using <a href="https://discord.gg/673e2sqBzd">ClearVision</a></p>
 <hr>
 <h2>How to use?</h2>
-<p>Find the theme you want (https://github.com/hypewsthedev/hypewsClearVision/releases/tag/v1.0) and then place this into your <b>BetterDiscord Themes Folder</b>. You don't need to download the settings files as they just manage the versioning. Please check the repo for any updates on the themes you use. This helps with compatibility with the settings file.</p>
+<p>Find the theme you want (https://github.com/hypewsthedev/hypewsClearVision/releases/tag/v1-KON) and then place this into your <b>BetterDiscord Themes Folder</b>. You don't need to download the settings files as they just manage the versioning. Please check the repo for any updates on the themes you use. This helps with compatibility with the settings file.</p>
 <hr>
 <p>Here are some examples:</p>
 <h4>Deku from My Hero Academia</h4>
