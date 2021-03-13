@@ -23,3 +23,9 @@
 <br>
 <h4>Frogs</h4>
 <img src="assets/Frogs.png" alt="Appa">
+<br>
+<h4>K-ON!! Version 1</h4>
+<img src="assets/K-ON!!-1.jpg" alt="Appa">
+<br>
+<h4>K-ON!! Version 2</h4>
+<img src="assets/K-ON!!-2.jpg" alt="Appa">
